@@ -38,9 +38,4 @@ This repository is organized based on different problem categories:
 ⬜ Medium Problems  
 ⬜ Hard Problems  
 
-## Connect With Me 🤝
-I'm always open to discussions, optimizations, and feedback! If you're also practicing LeetCode, let's connect:
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
 
-Happy Coding! 🚀
