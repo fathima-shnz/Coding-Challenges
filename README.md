@@ -1,4 +1,4 @@
-# 🏆=== Coding Challenges Repository
+# 🏆Coding Challenges Repository
 
 Welcome! 🚀 This repository contains my solutions to various **coding challenges** from platforms like **HackerRank, LeetCode, and more**. Each file includes the challenge description in comments and my solution.
 
