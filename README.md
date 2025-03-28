@@ -1,41 +1,23 @@
-# LeetCode Solutions 🚀
+# 🏆=== Coding Challenges Repository
 
-Welcome to my **LeetCode Solutions** repository! 📚 This repository contains my solutions to various LeetCode problems as I practice and improve my problem-solving skills in Python.
+Welcome! 🚀 This repository contains my solutions to various **coding challenges** from platforms like **HackerRank, LeetCode, and more**. Each file includes the challenge description in comments and my solution.
 
-## About This Repository 🧩
-The goal of this repository is to:
-- Track my progress in solving LeetCode problems.
-- Improve my data structures and algorithms (DSA) skills.
-- Share well-explained solutions with comments for better understanding.
+---
 
-## Problem Categories 📂
-This repository is organized based on different problem categories:
-- **Arrays & Strings** 📊
-- **Linked Lists** 🔗
-- **Stacks & Queues** 🏗️
-- **Hashmaps & Sets** 🔍
-- **Recursion & Backtracking** 🔄
-- **Dynamic Programming (DP)** 🚀
-- **Graphs & Trees** 🌳
-- **Sorting & Searching** 🔎
+## 📂 Repository Structure  
+All solutions are stored as simple script files (**.py, .sql, etc.**) without separate folders. Each file is named after the challenge.
 
-## How to Use This Repository 🛠️
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/LeetCode-Solutions.git
-   ```
-2. Navigate to the repository folder:
-   ```sh
-   cd LeetCode-Solutions
-   ```
-3. Explore different solution files and run them:
-   ```sh
-   python filename.py
-   ```
 
-## My LeetCode Progress 📈
-✔️ Easy Problems  
-⬜ Medium Problems  
-⬜ Hard Problems  
+---
 
+## ✅ How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/coding-challenges.git
+
+🚀**Goals**
+
+Improve problem-solving skills in Python & SQL
+
+Learn efficient algorithms and data structures
 
